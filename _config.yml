@@ -1,4 +1,3 @@
-layout_spectrum: 0.8573725051246583
 typography_spectrum: 0.31514045083895326
 color:
   brandStrength: 0.2059438752476126
@@ -11,4 +10,13 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+opengraph:
+  type: main page
+  appId: freedomtour
+layout_spectrum: 0.8573725051246583
+author:
+  name: Mick Benson
+  email: mickbenson@hotmail.com
+  url: freedomtour.co.uk
 name: Freedom Tour
+title: Adventure 1st Class
